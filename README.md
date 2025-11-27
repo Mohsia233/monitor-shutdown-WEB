@@ -1,4 +1,4 @@
-# monitor-shutdown-WEB
+# monitor-shutdown-WEB（旧版本已淘汰废弃）
 已经有2.0版本，此版本仅作为纪念
 
 
