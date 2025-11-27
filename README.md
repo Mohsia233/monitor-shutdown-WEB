@@ -10,9 +10,14 @@
 可以实现监控CPU和内存使用率
 以及一个带确认的关闭计算机按钮
 
+
+要求windows系统并保证python环境正确
+
+
 使用需要psutil以及flask获取系统资源占用情况
 
 可使用pip命令安装
+
 
 pip install flask psutil
 
